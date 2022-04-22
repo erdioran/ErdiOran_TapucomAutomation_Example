@@ -1,0 +1,28 @@
+{
+  "common": {
+    "url": "https://www.tapu.com/"
+  },
+  "signupLogin": {
+    "name": "Erdi",
+    "surname": "Oran",
+    "phone": "5015781319",
+    "countryCode": "+90",
+    "country": "Türkiye",
+    "userMail": "testerdioran@gmail.com",
+    "password": "12345678Eo"
+  },
+  "category": {
+    "information": "Bilgilerim"
+  },
+  "h1Tags": {
+    "footer_OUR_CONSULTANTS": "19 Danışman İçinden Size En Uygun Olanı Bulun",
+    "footer_BECOME_OUR_CONSULTANT": "Gayrimenkul Danışmanları Arıyoruz!",
+    "footer_TERMS_OF_USE": "Kullanım Koşulları",
+    "footer_MEMBERSHIP_AGREEMENT": "Üyelik Sözleşmesi",
+    "footer_PRIVACY_POLICY": "Gizlilik Politikası",
+    "footer_DISTANCE_SALES_AGREEMENT": "Mesafeli Satış Sözleşmesi",
+    "footer_GDPR": "Kişisel Verilerin Korunma Politikası",
+    "footer_MARKETING_TEXT": "Pazarlama ve Açık Rıza Aydınlatma Metni"
+  }
+}
+
